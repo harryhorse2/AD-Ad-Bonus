@@ -43,6 +43,7 @@ export default {
       Reset the entire game, but keep Automator Scripts, Study Presets, Secret Themes, Secret Achievements, Options,
       and Companion Glyph.
     </h2>
+    <h3>For beating the game you gain 30 STDs. Spend them wisely!</h3>
     <h3>You can use the button in the top-right to view the game as it is right now.</h3>
     <div class="c-new-game-button-container">
       <button
